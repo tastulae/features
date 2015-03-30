@@ -11,7 +11,7 @@ Scenario 2: The participant uses the kiosk to check his/her donations
   When the finger print is not found in the system archives
   Then I'm shown an error screen saying that right index finger is needed for signing in
   
-  Scenario 3: The participant has cash donations as indicated by $ icon on the home screen
+Scenario 3: The participant has cash donations as indicated by $ icon on the home screen
   Given the participant is logged in
   When he/she presses the $ icon
   Then he/she is taken to a page that displays the current amount of cash donations and has two icons: 'back to home screen' and 'find a participating store'
