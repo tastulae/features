@@ -1,0 +1,25 @@
+{
+  "name": "in-need-features",
+  "version": "1.0.0",
+  "description": "Cukes for the organization",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/in-need-org/features.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/in-need-org/features/issues"
+  },
+  "homepage": "https://github.com/in-need-org/features",
+  "dependencies": {
+    
+  },
+  "devDependencies": {
+    "cucumber": "latest"
+  }
+}
